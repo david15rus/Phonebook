@@ -1,0 +1,18 @@
+[
+    {
+        "first_name": "Ivanovich",
+        "last_name": "Ivan",
+        "middle_name": "Andreevich",
+        "organization": "NCFU",
+        "work_phone": "9595785",
+        "personal_phone": "89257356895"
+    },
+    {
+        "first_name": "Petrenko",
+        "last_name": "Peter",
+        "middle_name": "Ivanovich",
+        "organization": "NCFU",
+        "work_phone": "9595857",
+        "personal_phone": "88257568112"
+    }
+]
